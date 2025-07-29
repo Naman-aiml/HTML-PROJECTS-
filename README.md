@@ -1,2 +1,2 @@
 # HTML-PROJECTS-
-This is a place where i have saved all the projects which i started .
+A simple HTML project created as part of my web development learning journey
